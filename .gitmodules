@@ -1,0 +1,3 @@
+[submodule "pkgs/timelauncher"]
+	path = pkgs/timelauncher
+	url = git@github.com:misobarisic/timelauncher.git
