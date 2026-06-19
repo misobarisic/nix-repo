@@ -1,3 +1,6 @@
 [submodule "pkgs/timelauncher"]
 	path = pkgs/timelauncher
 	url = git@github.com:misobarisic/timelauncher.git
+[submodule "pkgs/scrollsaw"]
+	path = pkgs/scrollsaw
+	url = git@github.com:misobarisic/scrollsaw.git
